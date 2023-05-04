@@ -34,7 +34,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 ### Derivative Papers
 
 ### Derivative Projects
-#### Image Segmentation task
+#### Image Similarity Task 
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|
 | Steam DINOv2: match banners with Meta AI's DINOv2 | ![img](https://github.com/woctezuma/steam-DINOv2/wiki/img/illustration.jpg)|[Colab]() & [Huggingface](g) | [Code](https://github.com/woctezuma/steam-DINOv2.git) | - | retrieve Steam games with similar store banners| - | 
