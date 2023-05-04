@@ -17,5 +17,34 @@ DINO V2 has led to a new breakthrough in the field of Computer Vision (CV), and 
 
 If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️. Thanks.
 
+## News
+```
+- 2023.5.4: Add steam-DINO V2 project. 
+```
+
+## Contents
+
+- [Basemodel Papers](#basemodel-papers) 
+- [Derivative Papers](#derivative-papers)
+- [Derivative Projects](#derivative-projects) 
+
+## Papers/Projects
+### Basemodel Papers
+
+### Derivative Papers
+
+### Derivative Projects
+#### Image Segmentation task
+| Title | Presentation|  Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:|
+| Steam DINOv2: match banners with Meta AI's DINOv2 | ![img](https://github.com/woctezuma/steam-DINOv2/wiki/img/illustration.jpg)|[Colab]() & [Huggingface](g) | [Code](https://github.com/woctezuma/steam-DINOv2.git) | - | retrieve Steam games with similar store banners| - | 
+
+
+## Acknowledgement
+This template is borrowed from Awesome Segment Anything (https://github.com/Hedlen/awesome-segment-anything.git)
+
+## License
+This project is released under the MIT license. Please see the [LICENSE](LICENSE) file for more information.
+
 
 
