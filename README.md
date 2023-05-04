@@ -41,7 +41,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 
 
 ## Acknowledgement
-This template is borrowed from Awesome Segment Anything (https://github.com/Hedlen/awesome-segment-anything.git)
+This template is borrowed from Awesome Segment Anything [Code](https://github.com/Hedlen/awesome-segment-anything.git)
 
 ## License
 This project is released under the MIT license. Please see the [LICENSE](LICENSE) file for more information.
