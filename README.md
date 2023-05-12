@@ -42,6 +42,10 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
  | Title | Presentation|  Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|
 | Extract Dataset Feature Vectors with DINOv2 | ![img]()|[Colab](https://colab.research.google.com/github/visual-layer/fastdup/blob/main/examples/dinov2_notebook.ipynb#scrollTo=c0727302-dbe5-46b3-a5ff-b039811a7e7e) | [Code](https://colab.research.google.com/github/visual-layer/fastdup/blob/main/examples/dinov2_notebook.ipynb#scrollTo=c0727302-dbe5-46b3-a5ff-b039811a7e7e) | - | debug the embedding quality by clustering group of similar images and visualizing them| - | 
+ 
+| Title | Presentation|  Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:|
+| Implementation of instance retrieval using DINOv2 and Faiss | ![img]()|[Colab](https://github.com/abdelkareemkobo/level_up_with_dinov2/blob/main/dinov2.ipynb) | [Code]([https://colab.research.google.com/github/visual-layer/fastdup/blob/main/examples/dinov2_notebook.ipynb#scrollTo=c0727302-dbe5-46b3-a5ff-b039811a7e7e](https://github.com/abdelkareemkobo/level_up_with_dinov2)) | - | simply provide an image and the model will return similar images based on their features.| - | 
 
 ## Acknowledgement
 This template is borrowed from awesome-segment-anything [Code](https://github.com/Hedlen/awesome-segment-anything.git)
