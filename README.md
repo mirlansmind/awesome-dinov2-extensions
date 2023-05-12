@@ -39,6 +39,9 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 |:---:|:---:|:---:|:---:| :---:| :---:|
 | Steam DINOv2: match banners with Meta AI's DINOv2 | ![img](https://github.com/woctezuma/steam-DINOv2/wiki/img/illustration.jpg)|[Colab]() & [Huggingface](g) | [Code](https://github.com/woctezuma/steam-DINOv2.git) | - | retrieve Steam games with similar store banners| - | 
 
+ | Title | Presentation|  Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:|
+| Extract Dataset Feature Vectors with DINOv2 | ![img]()|[Colab](https://colab.research.google.com/github/visual-layer/fastdup/blob/main/examples/dinov2_notebook.ipynb#scrollTo=c0727302-dbe5-46b3-a5ff-b039811a7e7e) & [Huggingface](g) | [Code]() | - | debug the embedding quality by clustering group of similar images and visualizing them| - | 
 
 ## Acknowledgement
 This template is borrowed from awesome-segment-anything [Code](https://github.com/Hedlen/awesome-segment-anything.git)
