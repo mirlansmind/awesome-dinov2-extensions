@@ -37,7 +37,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 #### Reimplementations for Ease of Use 
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|
-| Reimplementation of Dinov2 for evaluation purpose| ![img]()| | [Code]([https://github.com/woctezuma/steam-DINOv2.git](https://github.com/ccharest93/LitDinov2_public.git)) | - | does not require the XTRANSFORMER library| - | 
+| Reimplementation of Dinov2 for evaluation purpose| ![img]()| | [Code]((https://github.com/ccharest93/LitDinov2_public.git)) | - | does not require the XTRANSFORMER library| - | 
 #### Image Similarity Task 
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|
