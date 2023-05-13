@@ -37,7 +37,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 #### Reimplementations for Ease of Use 
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|
-| Reimplementation of Dinov2 for evaluation purpose| ![img]()| | [Code]((https://github.com/ccharest93/LitDinov2_public.git)) | - | does not require the XTRANSFORMER library| - | 
+| Reimplementation of Dinov2 for evaluation purpose| ![img]()| | [Code](https://github.com/ccharest93/LitDinov2_public.git) | - | does not require the XTRANSFORMER library| - | 
 #### Image Similarity Task 
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|
@@ -49,7 +49,7 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
  
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|
-| Implementation of instance retrieval using DINOv2 and Faiss | ![img]()|[Colab](https://github.com/abdelkareemkobo/level_up_with_dinov2/blob/main/dinov2.ipynb) | [Code]([https://colab.research.google.com/github/visual-layer/fastdup/blob/main/examples/dinov2_notebook.ipynb#scrollTo=c0727302-dbe5-46b3-a5ff-b039811a7e7e](https://github.com/abdelkareemkobo/level_up_with_dinov2)) | - | simply provide an image and the model will return similar images based on their features.| - | 
+| Implementation of instance retrieval using DINOv2 and Faiss | ![img]()|[Colab](https://github.com/abdelkareemkobo/level_up_with_dinov2/blob/main/dinov2.ipynb) | [Code](https://github.com/abdelkareemkobo/level_up_with_dinov2) | - | simply provide an image and the model will return similar images based on their features.| - | 
 
 ## Acknowledgement
 This template is borrowed from awesome-segment-anything [Code](https://github.com/Hedlen/awesome-segment-anything.git)
