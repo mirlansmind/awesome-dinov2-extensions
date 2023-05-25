@@ -50,7 +50,12 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|
 | Implementation of instance retrieval using DINOv2 and Faiss | ![img]()|[Colab](https://github.com/abdelkareemkobo/level_up_with_dinov2/blob/main/dinov2.ipynb) | [Code](https://github.com/abdelkareemkobo/level_up_with_dinov2) | - | simply provide an image and the model will return similar images based on their features.| - | 
-
+#### Image segmentation Task
+| Title | Presentation|  Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:|
+| Finetunig DINOv2 for Unsupervised Image Classification| ![img]()|| [Code](https://github.com/iMvijay23/Dinov2SSLImageCL) | - | Self supervised image classification on tinyimagenet and imagenet dataset| - | 
+ 
+ 
 ## Acknowledgement
 This template is borrowed from awesome-segment-anything [Code](https://github.com/Hedlen/awesome-segment-anything.git)
 
