@@ -54,6 +54,10 @@ If you find this repository helpful, please consider Stars ⭐ or Sharing ⬆️
 | Title | Presentation|  Project page | Code base | Affiliation| Description|
 |:---:|:---:|:---:|:---:| :---:| :---:|
 | Finetunig DINOv2 for Unsupervised Image Classification| ![img]()|| [Code](https://github.com/iMvijay23/Dinov2SSLImageCL) | - | Self supervised image classification on tinyimagenet and imagenet dataset| - | 
+
+| Title | Presentation|  Project page | Code base | Affiliation| Description|
+|:---:|:---:|:---:|:---:| :---:| :---:|
+| Seg-DINOv2 | ![img]()|| [Code](https://github.com/dhk1349/seg-dinov2.git) | - | Fine-tuning dino v2 for semantic segmentation task on MSCOCO.| - | 
  
  
 ## Acknowledgement
